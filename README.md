@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Technology explorer<br>👯Continuous learner<br>🤝 Developing skills<br>🌱 I’m currently learning<br>💬 Always Online <br>⚡ I'm the best version of mine 
+🔭 Technology explorer<br>👯Continuous learner<br>🤝 Developing skills<br>🌱 I’m currently learning<br>💬 Always Online <br>
+👨‍💻 Cybersecurity Enthusiast 
 
 
 ## 🌐 Socials:
